@@ -1,0 +1,8 @@
+numpy==1.21.6
+Pillow==9.4.0
+scikit_image==0.18.3
+scipy==1.10.1
+opencv_contrib_python==4.6.0.66
+opencv_python==4.6.0.66
+pytorch_fid==0.3.0
+torch==1.13.1
